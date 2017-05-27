@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881493900622",
+    "firebase_url": "https://expush-4b02e.firebaseio.com",
+    "project_id": "expush-4b02e",
+    "storage_bucket": "expush-4b02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881493900622:android:23ba100939fdb8f1",
+        "android_client_info": {
+          "package_name": "android.estudos.com.casa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881493900622-9fafm8vfsh8tkvnro76kmr2ffhng9p3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.estudos.com.casa",
+            "certificate_hash": "FB64FB34A2623C24A40A5F13687C7045E6E44335"
+          }
+        },
+        {
+          "client_id": "881493900622-76i4j2fvlm97d2rbdthnbciuh9s69osb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4XROwzceSeH3j6qbfiSqtg67IuT8dfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881493900622-76i4j2fvlm97d2rbdthnbciuh9s69osb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
